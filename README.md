@@ -1,5 +1,9 @@
 # Test scenario for endpoint api with cucumber
 
+## Description
+	By task description it's not clear how we can find out from which user the request was generated. To do this, I implement a token. It's generated from the test for each request and determines by token which company the user belongs to.
+
+
 ## How to run
 	1. Make sure that you install gradle and docker
 	2. Run this commands to see tests result
