@@ -1,7 +1,10 @@
 # Test scenario for endpoint api with cucumber
 
 ## Description
-	By task description it's not clear how we can find out from which user the request was generated. To do this, I implement a token. It's generated from the test for each request and determines by token which company the user belongs to.
+	By task description it's not clear how we can find out from which 
+	user the request was generated. To do this, I implement a token. 
+	It's generated from the test for each request and determines by 
+	token which company the user belongs to.
 
 
 ## How to run
