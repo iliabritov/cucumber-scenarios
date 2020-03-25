@@ -1,6 +1,9 @@
 # Test scenario for endpoint api with cucumber
 
 ## Description
+	The project consists of 2 part
+		1. Server simulating endpoint
+		2. Test scenario for our server
 	By task description it's not clear how we can find out from which 
 	user the request was generated. To do this, I implement a token. 
 	It's generated from the test for each request and determines by 
